@@ -1,0 +1,107 @@
+body {
+    text-align: center;
+    background-color: coral;
+}
+
+#HOME {
+    background-color: chartreuse;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: red;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: blue;
+    font-size: 30px;
+}
+
+#HOME{
+    background-color: black;
+}
+
+#service{
+    color: white;
+    font-size: 90px;
+}
+
+#para{
+    color: white;
+    font-size: 30px;
+}
+
+#abouthead{
+    font-size: 50px;
+    color: crimson;
+}
+
+#vision{
+    font-size: 20px;
+    color: black;
+}
+
+#mission{
+    font-size: 20px;
+    color: black;
+}
+
+p{
+    font-size: 20px;
+    color: black;
+    padding-top: 10px;
+}
+
+#principal{
+    height: 300px;
+    width: 250px;
+    text-align: center;
+}
+#message{
+    font-size: 50px;
+    color: black;
+}
+
+#m1{
+     font-size: 20px;
+    color: black;
+}
+
+#m2{
+     font-size: 20px;
+    color: black;
+}
+
+#m3{
+     font-size: 20px;
+    color: black;
+}
+
+#m4{
+     font-size: 20px;
+    color: black;
+}
+
+#m5{
+     font-size: 20px;
+    color: black;
+}
+
+#m6{
+     font-size: 20px;
+    color: black;
+}
+
+#milestone{
+    font-size: 50px;
+}
